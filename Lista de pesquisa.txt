@@ -1,0 +1,4 @@
+Para fazer a análise dos dados utilizei os conteúdos vistos no decorrer do Nanodegree, e também a documentação oficial das bibliotecas e ferramentas:
+-https://pandas.pydata.org/
+-https://matplotlib.org/
+-https://seaborn.pydata.org/
